@@ -6,10 +6,11 @@ A new campaign aims to sell a gadget to the Customer Database. A pilot campaign 
 The objective is to develop a model that predicts customer behavior and to apply it to the rest of the customer base. The model will allow the company to cherry pick customers who are most likely to purchase the offer, while leaving out the non-respondents, making the next campaign highly profitable. Moreover, the CMO is interested in understanding to study the characteristic features of those customers who are willing to buy the gadget.
 
 Objectives:
-Customer profile analysis - identify prevalent characteristics & behaviors among our customers
 
-Create correlation matrix for correlation analysis of variables
+  1. Customer profile analysis - identify prevalent characteristics & behaviors among our customers
 
-Customer segmentation
+  2. Create correlation matrix for correlation analysis of variables
 
-Predictive model and recommendations for next campaign to target select customers
+  3. Customer segmentation
+
+  4. Predictive model and recommendations for next campaign to target select customers
