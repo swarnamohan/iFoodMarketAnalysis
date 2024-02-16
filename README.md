@@ -14,3 +14,26 @@ Objectives:
   3. Customer segmentation
 
   4. Predictive model and recommendations for next campaign to target select customers
+
+
+Documentation:
+
+  1. iFood Market Analysis _ Introduction, Explo ... .pdf
+
+Data:
+
+  1. ifood_df.csv
+
+Presentation:
+
+  1. Market Analysis Presentation PPT.pdf
+
+Code:
+
+  1. R code iFood - corrmatrix... .pdf
+
+Meta-data:
+
+  1. dictionary.png
+
+
