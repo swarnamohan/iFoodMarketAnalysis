@@ -1,5 +1,5 @@
 # iFoodMarketAnalysis
-Data analysis of iFood's customer and campaign data
+Analysis of iFood's customer and campaign data // Excel, SQL, R, Tableau
 
 A new campaign aims to sell a gadget to the Customer Database. A pilot campaign involved 2,240 randomly selected customers who were contacted by phone, which cost 6,720MU and generated 3,674MU in revenue. This resulted in a global profit of -3,046MU and a 15% success rate. 
 
